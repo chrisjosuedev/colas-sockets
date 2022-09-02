@@ -1,5 +1,5 @@
-# init-restapi
-Basic Socket Server
+# init-queue
+Queue application with Socket.io
 
 ## Available Scripts
 
